@@ -1,2 +1,4 @@
-# converters
-Converters from USFM format to other formats
+# Converters
+
+Converters from the USFM format to other formats.
+
