@@ -1,2 +1,0 @@
-Place your USFM files here.
-The converters will use these USFM files as input.
