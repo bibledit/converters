@@ -1,2 +1,15 @@
 Information for developing and maintaining the converters.
 
+
+Generating the BibleMultiConverter.jar
+======================================
+
+The BibleMultiConverter repository gives information about how to generate BibleMultiConverter.jar.
+https://github.com/schierlm/BibleMultiConverter
+
+Steps in short:
+1. Install Apache Maven https://maven.apache.org/install.html
+2. $ git clone https://github.com/schierlm/BibleMultiConverter
+3. $ cd BibleMultiConverter
+4. $ ../apache-maven-3.6.0/bin/mvn package -pl '!biblemulticonverter-sword,!biblemulticonverter-allinone'
+5. Locate the compiled jar file: $ find . -name BibleMultiConverter.jar
