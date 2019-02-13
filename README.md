@@ -8,7 +8,7 @@ The converters can run on a local workstation and on a server.
 
 Clone or download the converters from the following location:
 https://github.com/bibledit/converters.
-Unpack the software into a folder, say, into folder ```converters```.
+Unpack the software into a known folder.
 
 The converters need a Java Runtime Environment to run.
 Install the ```java``` binary.
@@ -20,3 +20,9 @@ Download all separate USFM files from your Bible editor and store them into a kn
 Or download a zip file with all the USFM files, and unpack the zip file into a known folder.
 
 ## Quick Bible
+
+Converting Bible data to Quick Bible consists of two steps.
+1. Convert the USFM data to a .yet file.
+2. Convert the .yet file to a .yes file.
+3. Load the .yes file into the Quick Bible app.
+
