@@ -31,3 +31,5 @@ To convert the USFM data to a .yet file, issue the following command:
 java -jar path/to/converters/BibleMultiConverter/BibleMultiConverter.jar USFM path/to/usfm/folder QuickBible path/to/bible.yet
 ```
 
+Optionally you may edit the ```bible.yet``` file and update the names of the books.
+
