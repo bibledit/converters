@@ -21,7 +21,7 @@ Or download a zip file with all the USFM files, and unpack the zip file into a k
 
 ## Quick Bible
 
-Converting Bible data to Quick Bible consists of two steps.
+Converting Bible data to Quick Bible consists of multiple steps.
 1. Convert the USFM data to a ```.yet``` file.
 2. Convert the ```.yet``` file to a ```.yes``` file.
 3. Load the ```.yes``` file into the Quick Bible app.
