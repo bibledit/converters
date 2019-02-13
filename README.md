@@ -26,3 +26,8 @@ Converting Bible data to Quick Bible consists of multiple steps.
 2. Convert the ```.yet``` file to a ```.yes``` file.
 3. Load the ```.yes``` file into the Quick Bible app.
 
+To convert the USFM data to a .yet file, issue the following command:
+```
+java -jar path/to/converters/BibleMultiConverter/BibleMultiConverter.jar USFM path/to/usfm/folder QuickBible path/to/bible.yet
+```
+
