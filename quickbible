@@ -1,0 +1,2 @@
+java -jar BibleMultiConverter-dist/BibleMultiConverter.jar USFM 00_Bible QuickBible out.yet
+
