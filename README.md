@@ -6,8 +6,9 @@ Converters from the USFM format to other formats.
 
 The converters can run on a local workstation and on a server.
 
-Use the green button "Clone or download" to download the converters from the following location:
+Use the green button "Clone or download" to download a zip file of the converters from the following location:
 https://github.com/bibledit/converters.
+
 Unpack the software into a known folder.
 
 The converters need a Java Runtime Environment to run.
