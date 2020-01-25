@@ -36,7 +36,7 @@ Optionally you may edit the ```bible.yet``` file and update the names of the boo
 
 To convert the .yet file to a .yes file, issue the following command:
 ```
-java -jar path/to/converters/QuickBible/YetToYes2.jar --ignore-skipped-verses path/to/bible.yet path/to/bible.yes
+java -jar path/to/converters-master/QuickBible/YetToYes2.jar --ignore-skipped-verses path/to/bible.yet path/to/bible.yes
 ```
 
 Then finally load the .yet file into the Quick Bible app and enjoy the result.
